@@ -1,0 +1,4 @@
+svet 1000
+voda 12
+arenda 30000
+gaz 1200
